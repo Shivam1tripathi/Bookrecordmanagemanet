@@ -1,7 +1,7 @@
 {
     "Books":[
         {
-            "Book_no.":"001",
+            "Book_no":"1",
             "Name":"Alice in Wonderland",
             "author":"Lewis Carrol",
              "genre":"friction",
@@ -9,7 +9,7 @@
             "publisher":"Hcf"
         },
         {
-            "Book_no.":"002",
+            "Book_no":"2",
             "Name":"Ancient Mariner",
             "author":"Coleridge",
             "genre":"friction",
@@ -17,11 +17,19 @@
             "publisher":"Hcf"
         },
         {
-            "Book_no.":"003",
+            "Book_no":"3",
             "Name":"Arms and the Man",
             "author":"G.B.Shaw",
             "genre":"comedy",
             "price":"Rs.650",
+            "publisher":"Hcf"
+        },
+        {
+            "Book_no":"4",
+            "Name":"Arms and the Man 2",
+            "author":"G.B.Shaw",
+            "genre":"comedy",
+            "price":"Rs.450",
             "publisher":"Hcf"
         }
     ]
